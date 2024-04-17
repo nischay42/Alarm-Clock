@@ -189,13 +189,13 @@ input:checked + .slider:before {
 @media screen and (max-width: 767px) {
   .content {
     height: 70vh;
-    width: 80vw;
+    width: 90vw;
     justify-content: space-evenly;
   }
 
   .alarmList {
     height: 17vh;
-    width: 60vw;
+    width: 70vw;
   }
   .img {
     height: 25vh;
@@ -214,7 +214,7 @@ input:checked + .slider:before {
 
   .Alarmtime {
     height: 7vh;
-    width: 36vw;
+    width: 46vw;
     line-height: 4.5;
     border: 1px solid green;
   }
@@ -233,6 +233,6 @@ input:checked + .slider:before {
 
   .alarm {
     height: 7vh;
-    width: 60vw;
+    width: 70vw;
   }
 }
