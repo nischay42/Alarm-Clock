@@ -195,7 +195,8 @@ input:checked + .slider:before {
 
   .alarmList {
     height: 17vh;
-    width: 70vw;
+    width: 80vw;
+    text-align: center;
   }
   .img {
     height: 25vh;
