@@ -215,7 +215,7 @@ input:checked + .slider:before {
   .Alarmtime {
     height: 7vh;
     width: 38vw;
-    line-height: 4.5;
+    line-height: 3.5;
   }
   
   .cancleAl {
