@@ -214,22 +214,22 @@ input:checked + .slider:before {
 
   .Alarmtime {
     height: 7vh;
-    width: 38vw;
+    width: 42vw;
     line-height: 3.5;
   }
   
   .cancleAl {
     height: 7vh;
-    width: 16vw;
+    width: 14vw;
   }
   
   .checkbox {
     height: 7vh;
-    width: 16vw;
+    width: 24vw;
   }
 
   .alarm {
     height: 7vh;
-    width: 70vw;
+    width: 80vw;
   }
 }
