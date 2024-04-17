@@ -214,21 +214,19 @@ input:checked + .slider:before {
 
   .Alarmtime {
     height: 7vh;
-    width: 46vw;
+    width: 38vw;
     line-height: 4.5;
     border: 1px solid green;
   }
   
   .cancleAl {
     height: 7vh;
-    width: 12vw;
-    border: 1px solid yellow;
+    width: 16vw;
   }
   
   .checkbox {
     height: 7vh;
-    width: 12vw;
-    border: 1px solid red;
+    width: 16vw;
   }
 
   .alarm {
